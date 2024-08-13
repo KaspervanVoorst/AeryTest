@@ -1,0 +1,5 @@
+controllers:
+    resource:
+        path: ../src/AeryApi/Controller/
+        namespace: App\AeryApi\Controller
+    type: attribute
